@@ -7,13 +7,13 @@ Using Node to generate QR codes for URLs.
 Download the code and open the files on your VSC.
 
 <b>Step 2 :</b>
-CD into the qr-code directory and install the npm module using the command
-npm i
+CD into the qr-code directory and install the npm module using the command: 
+<b>npm i</b>
 then run the following command:
-node index.js
+<b>node index.js</b>
 
 <b>Step 3 :</b>
-Type in your URl
+Type in your URl, 
 You should see the message "The file has been saved!"
 
 <b>Step 4 :</b>
